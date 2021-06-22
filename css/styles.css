@@ -12,6 +12,14 @@ body{
     margin: 0 auto;
 }
 
+#container cabecera{
+    background-color: teal;
+    color: white;
+    margin:  0;
+    padding:  0.5cm;
+    font-weight: bold;
+}
+
 #container h1{
     font-size: 20px;
 }
